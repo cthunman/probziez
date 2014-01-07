@@ -10,6 +10,9 @@
 #define NUM_TIX_PER_WIN 2
 #define NUM_IN_GROUP 3
 
+
+/* this is a comment */
+
 double factorial(double x) {
 
 	double product;
